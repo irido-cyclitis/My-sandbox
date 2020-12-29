@@ -1,5 +1,10 @@
 
 public class HW {
+	/*
+	* Standard Deviation Calculate
+	* Last-Modified Date : 29/12/2020
+	* Morad Abdelrasheed Mokhtar Ali
+	*/
 
 	public static void main(String[] args) {
 		
